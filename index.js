@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import chalk from "chalk";
 import inquirer from "inquirer";
 console.log(chalk.bold.yellowBright("\n\t\tWelcome to ZEENAT SOMROO 'OOP My Bank Project'\n\t\t "));
